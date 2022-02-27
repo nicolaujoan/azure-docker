@@ -12,11 +12,11 @@ Let's refresh some SSH concepts:
 
 - SSH is an encripted connection protocol
 
-- have secure sign-ins over unsecured connections
+- Have secure sign-ins over unsecured connections
 
-- is the default connection protocol for linux VMs
+- Is the default connection protocol for linux VMs
 
-- is recommended by Microsoft to connect to a VM over SSH keys (public-private key pair)
+- Is recommended by Microsoft to connect to a VM over SSH keys (public-private key pair)
     - public key -> on linux VM
     - private key -> on local system
 
